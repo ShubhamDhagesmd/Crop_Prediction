@@ -7,7 +7,7 @@ You can access the dataset here. This data is relatively simple with very few bu
 The data have Nitrogen, Phosphorous, Pottasium and pH values of the soil. Also, it also contains the humidity, temperature and rainfall required for a particular crop.
 
 ## Imported Libiary
-Pandas --- pip install pandas
-matplotlib --- pip install matplotlib
-sklearn --- pip install scikit-learn
-pickle ----- pip install pickle
+1.Pandas --- pip install pandas
+2.matplotlib --- pip install matplotlib
+3.sklearn --- pip install scikit-learn
+4.pickle ----- pip install pickle
