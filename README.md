@@ -8,6 +8,9 @@ The data have Nitrogen, Phosphorous, Pottasium and pH values of the soil. Also, 
 
 ## Imported Libiary
 1.Pandas --- pip install pandas
+
 2.matplotlib --- pip install matplotlib
+
 3.sklearn --- pip install scikit-learn
+
 4.pickle ----- pip install pickle
